@@ -1,0 +1,10 @@
+.page{
+    background:yellowgreen;
+}
+.page h1 {
+    color:rebeccapurple;
+
+}
+.text{
+    text-transform: capitalize;
+}
