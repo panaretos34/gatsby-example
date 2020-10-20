@@ -40,10 +40,10 @@ const NavItem = styled(Link)`
        <>
            
                    <NavItem to="/">Home</NavItem>
-                   <Link to="/blog">Blog</Link>
-                   <Link to="/products">Products</Link>
-                   <Link to="/examples">Examples</Link>
-                   <Link to="/images">Images</Link>
+                   <NavItem to="/blog">Blog</NavItem>
+                   <NavItem to="/products">Products</NavItem>
+                   <NavItem to="/examples">Examples</NavItem>
+                   <NavItem to="/images">Images</NavItem>
                
            </>
        
